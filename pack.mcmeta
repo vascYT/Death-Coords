@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Sends the death coordinates to the player when they die",
+    "pack_format": 71,
+    "supported_formats": [71, 71]
+  }
+}

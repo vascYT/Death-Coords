@@ -1,0 +1,4 @@
+scoreboard objectives remove death_coords.death_x
+scoreboard objectives remove death_coords.death_y
+scoreboard objectives remove death_coords.death_z
+scoreboard objectives remove death_coords.death_count
